@@ -36,7 +36,7 @@ I'm an 18y/o builder from Barcelona who loves getting involved in projects and s
 - **Disappoints me:** Over-complicating things, burocracy, disrespect.
 - **Strengths:** Ideas into products quickly, planning, resilience, and strong self-discipline.
 - **Improvement points:** Delegating, balancing focus with flexibility, managing time across multiple projects.
-- **Known behaviours / comms style:** Using english slang, not stopping until something is fixed, humor.
+- **Known behaviours / comms style:** Using english words when writing in Spanish, not stopping until something is fixed, humor.
 
 ---
 
@@ -52,3 +52,4 @@ I like running, playing tennis, skiing and hiking.
 
 
 I see myself in five years building impactful software in the U.S., at the heart of the tech scene. I hope the Exponential Fellowship will help me achieve this and give me the opportunity to go to SF to demonstrate what I am capable of.
+
