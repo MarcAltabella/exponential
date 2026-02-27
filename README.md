@@ -1,33 +1,39 @@
-**Best with:** *Python · TypeScript / React · Supabase · Figma · Early-stage company*  
-**Familiar with:** *C · LLM Integrations*
+﻿**Best with:** *Python - TypeScript / React - Machine Learning - Early-stage products*  
+**Familiar with:** *C - LLM integrations - Supabase - Figma*
 
-> 💡 **TL;DR** – *18 y/o product builder from Barcelona who loves shipping software. Built Offerty (Google Maps for discounts, iOS & Android) and Footinn (Sneaker reselling group, +4000 users), represented my university in a startup competition as a first-year undergrad, and enjoy building new things.*
+> **TL;DR** - 18-year-old computer science student from Barcelona who loves getting involved in projects. Built Offerty (Google Maps-style app for local deals) and founded Footinn (scaled to 4,000+ members across Europe). Spent junior year in the United States and currently works as a research assistant on an ML project at Stanford University.
 
 ---
 
 ## About Marc
 
-I'm an 18y/o builder from Barcelona who loves getting involved in projects and shipping fast. I built Offerty, a Google Maps style app for local discounts, and Footinn, a sneaker reselling community with over 4000 users. I studied in the United States during my junior year, where I discovered the startup ecosystem and have been drawn to it ever since. When I am not building, I enjoy running, playing tennis, and going on hikes.
+I am an 18-year-old computer science student from Barcelona who is deeply curious and loves getting involved in projects. I built Offerty, a Google Maps-style app for local deals, and founded Footinn, which grew to 4,000+ members across Europe. I spent my junior year in the United States and currently work as a research assistant on an ML project at Stanford University. When I am not building, I enjoy running, playing tennis, and hiking.
 
 ### Main Achievements
 
-- **Offerty – Co-founder (Jul 2025 - Dec 2025)** Built and launched a mobile marketplace for local deals, published on the App Store and Google Play, onboarded +30 partner businesses in under one month. Built the mobile apps in React Native, a merchant dashboard in React, and implemented a vector-based recommendation system and LLM-powered analytics for merchants.
-- **Footinn - Founder (May 2022 - Aug 2023)** Founded a sneaker reselling community at 15 and scaled it to +4000 members across the EU. Built the infrastructure and operations for a paid group that generated over €50k in member profits in its first year. Acquired in 2023.  
-- **University Representative (2025)** Represented my university in a startup competition as a first-year undergraduate and pitched in front of +180 people.
+- **FSL-Net - Research Assistant, Stanford University (Feb 2026 - Present):** Extending a state-of-the-art neural network (FSL-Net) for feature-level distribution shift detection to infer feature importance.
+- **Offerty - Co-founder (Jul 2025 - Dec 2025):** Built a mobile marketplace (iOS/Android) for discovering and purchasing local discounts, featuring map-based discovery, QR/wallet redemption, appointment booking, a React merchant dashboard, and a vector-database recommendation system using location and interaction signals.  
+  Demo: <https://offerty.es/>
+- **Footinn - Founder (May 2022 - Aug 2023):** Founded a sneaker reselling community at 15 and scaled it from 0 to 4,000+ members across Europe in under a year, before being acquired by a UK competitor.  
+  Profile: <https://x.com/footinncg>
+- **Centauri (Hackathon Project):** Multimodal AI browser copilot that adds a natural-language layer to any webpage, enabling context-aware chat or autonomous agent actions (scrolling, clicking, typing, data extraction), with pinned spatial notes, image context, and voice interaction.  
+  Demo: <https://devpost.com/software/centauri>
 
 ### Most-Prideful Builds
 
-| Project | Your role & stack | Impact / Demo |
-|---------|-------------------|---------------|
-| **Build 1** | Co-founder • TypeScript • React • Stripe Connect • Figma • Supabase | <https://offerty.es/> — +30 partners < 1 month, published iOS & Android, Helps users discover local deals while giving merchants modern tooling and data insights. |
-| **Build 2** | Founder • Community infrastructure • ops | <https://x.com/footinncg?s=21> <https://footinn.webflow.io/> Scaled a sneaker reselling community to 4,000+ users and enabled over €50k in member profits. Acquired in 2023. |
+| Project | Role and Stack | Impact / Demo |
+|---------|----------------|---------------|
+| **Offerty** | Co-founder - React Native - React - Recommendation systems | <https://offerty.es/> - Local-discounts marketplace with map discovery, wallet redemption, and merchant tooling. |
+| **Footinn** | Founder - Community operations - Growth | <https://x.com/footinncg> - Scaled to 4,000+ members across Europe; acquired by a UK competitor. |
+| **Centauri** | Builder - Multimodal AI - Browser automation | <https://devpost.com/software/centauri> - Hackathon browser copilot with autonomous web actions. |
 
 ### Experience (TL;DR)
 
-- **Offerty (Jul 2025 - Dec 2025)** – Co-founder, +30 partners in Barcelona.
-- **Footinn (May 2022 - Aug 2023)** – Founder, scaled to +4000 users across the EU. Managed staff team of 5 people. Acquired 2023.
-- **Startup Competition Representative (Nov 2025)** – Represented my university as a first-year undergraduate, in a pitch competition against all the universities in Catalonia.
-- **Computer Engineering (Present)** Studying my first year of computer engineering at Universitat Pompeu Fabra in Barcelona.
+- **Stanford University ML Research (Feb 2026 - Present):** Research assistant extending FSL-Net for feature-level distribution shift detection and interpretability.
+- **Offerty (Jul 2025 - Dec 2025):** Co-founded and built an iOS/Android local-discounts marketplace with recommendation infrastructure.
+- **Footinn (May 2022 - Aug 2023):** Founded at age 15, scaled to 4,000+ members across Europe, and exited through acquisition.
+- **Computer Science Student (Present):** Barcelona-based undergraduate with strong interest in building AI products.
+
 ---
 
 ## How I Work
@@ -44,12 +50,10 @@ I'm an 18y/o builder from Barcelona who loves getting involved in projects and s
 
 ### Some personal stuff
 
-Born in Barcelona (2007).
-I love old movies and history.
+Born in Barcelona (2007).  
+I love old movies and history.  
 I like running, playing tennis, skiing and hiking.
 
 ### My vision
 
-
-I see myself in five years building impactful software in the U.S., at the heart of the tech scene. I hope the Exponential Fellowship will help me achieve this and give me the opportunity to go to SF to demonstrate what I am capable of.
-
+I see myself in five years building impactful software in the U.S., at the heart of the tech scene, working on products at the intersection of software and AI.
